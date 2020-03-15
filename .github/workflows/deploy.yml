@@ -19,4 +19,4 @@ jobs:
         hugo-version: '0.62.0'
 
     - name: Build                                
-      run: hugo -d /home/worker/public
+      run: hugo -d /home/worker/public --cleanDestinationDir -D
