@@ -19,7 +19,4 @@ jobs:
         hugo-version: '0.62.0'
 
     - name: Build                                
-      run: hugo
-
-    - name: Deploy
-      run: mv public /var/www/html/test.aapp
+      run: hugo -d /home/worker/public
