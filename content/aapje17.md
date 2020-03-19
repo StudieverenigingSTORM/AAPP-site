@@ -17,4 +17,4 @@ Team Have you tried turning it off and on again? (Rick van Rheenen, Ramon Winder
 
 ## Problem set
 
-You can download the full problem set, including the problem pdf, jury presentation, test data and sample solutions here.
+You can download the full problem set, including the problem pdf, jury presentation, test data and sample solutions [here](https://drive.google.com/open?id=0B4hyvNKMlax6NTlPMXhoTjdoOE0).
